@@ -1,3 +1,3 @@
-module github.com/tvv95/browscap_go
+module github.com/solta-devel/browscap_go
 
 go 1.18
